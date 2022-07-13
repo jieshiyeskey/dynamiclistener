@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rancher/dynamiclistener/cert"
-	"github.com/rancher/dynamiclistener/factory"
+	"github.com/jieshiyeskey/dynamiclistener/cert"
+	"github.com/jieshiyeskey/dynamiclistener/factory"
 	"github.com/sirupsen/logrus"
 	v1 "k8s.io/api/core/v1"
 )
