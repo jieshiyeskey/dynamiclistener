@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rancher/dynamiclistener"
-	"github.com/rancher/dynamiclistener/cert"
+	"github.com/jieshiyeskey/dynamiclistener"
+	"github.com/jieshiyeskey/dynamiclistener/cert"
 	"github.com/rancher/wrangler/pkg/generated/controllers/core"
 	v1controller "github.com/rancher/wrangler/pkg/generated/controllers/core/v1"
 	"github.com/rancher/wrangler/pkg/start"
